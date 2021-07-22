@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-vickie.local	TRUE	/	FALSE	1999999999	yith_woocompare_list	%5B645%2C126%5D
-vickieswan.ca	TRUE	/	FALSE	1999999999	cf_ob_info	520:67296a58bc1861f5:YVR
-vickieswan.ca	TRUE	/	FALSE	1999999999	cf_use_ob	443
-.google.com	TRUE	/	FALSE	1999999999	NID	219=hU67mL-UZtpqXlRNEoavrJl5JLe6lh-4PSMrQ1UruyPD_vjONTqBW1i1StpTqSZhWP72swNe_yF5IfsTiAioB8HgRAV89GB3nOwqmgHW8cnH7ESGu-Udyiv_QGcxCRMfuUdZjro8gp1cjPWRgSoNtNND_wZ2xHiHtP_rdjvuqOA
-vickie.local	TRUE	/	FALSE	1999999999	yith_wcwl_session_381cdf7a2ddb6ae584037149a4e1d355	%7B%22session_id%22%3A%228fdbf635a79117fa62302bd010efcecb%22%2C%22session_expiration%22%3A1629514614%2C%22session_expiring%22%3A1629511014%2C%22cookie_hash%22%3A%221ecf3be5ee243289e93ddf9209bec78d%22%7D
-
