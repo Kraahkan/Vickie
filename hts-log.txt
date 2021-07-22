@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Jul 2021 19:56:02 at http://vickie.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://vickie.local/ -O1 "C:\My Web Sites\Vickie" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:59:31	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/auteur-framework/libs/smart-framework/assets/vendors/magnific-popup/magnific-popup.min.css?ver=1.1.0 (from vickie.local/)
+19:59:31	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2018/11/404-background.jpg?id=554 (from vickie.local/)
+19:59:31	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/themes/g5plus-auteur/assets/skin/skin-light.min.css?ver=5.5.5 (from vickie.local/)
+19:59:31	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.1 (from vickie.local/)
+19:59:42	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2019/03/logolight.png (from vickie.local/)
+19:59:42	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2019/03/logodark.png (from vickie.local/)
+19:59:52	Warning: 	Found for vickie.local/?action=yith-woocompare-add-product&id=645
+19:59:52	Warning: 	File has moved from vickie.local/?action=yith-woocompare-add-product&id=645 to /
+20:00:27	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/?add_to_wishlist=126 (from vickie.local/)
+20:00:29	Warning: 	Found for vickie.local/?action=yith-woocompare-add-product&id=126
+20:00:29	Warning: 	File has moved from vickie.local/?action=yith-woocompare-add-product&id=126 to /
+20:00:50	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 (from vickie.local/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css?ver=4.7.0)
+20:00:51	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/auteur-framework/libs/smart-framework/assets/vendors/font-awesome/webfonts/fa-brands-400.ttf (from vickie.local/wp-content/plugins/auteur-framework/libs/smart-framework/assets/vendors/font-awesome/css/fontawesome.css?ver=5.1.0)
+20:01:10	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/auteur-framework/libs/smart-framework/assets/vendors/font-awesome/webfonts/fa-solid-900.eot? (from vickie.local/wp-content/plugins/auteur-framework/libs/smart-framework/assets/vendors/font-awesome/css/fontawesome.css?ver=5.1.0)
+20:01:16	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/auteur-framework/libs/smart-framework/assets/vendors/font-awesome/webfonts/fa-solid-900.svg (from vickie.local/wp-content/plugins/auteur-framework/libs/smart-framework/assets/vendors/font-awesome/css/fontawesome.css?ver=5.1.0)
+20:01:17	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888 (from vickie.local/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.1)
+20:01:21	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from vickie.local/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.3.4)
+20:01:21	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg (from vickie.local/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.3.4)
+20:01:25	Error: 	"Not Found" (404) at link vickie.local/themepunch.revolution.min.js (from vickie.local/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1)
+20:01:25	Error: 	"Not Found" (404) at link vickie.local/jquery.themepunch.revolution.min.js (from vickie.local/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1)
+20:01:25	Error: 	"Not Found" (404) at link vickie.local/jquery.themepunch.revolution.js (from vickie.local/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1)
+20:01:25	Error: 	"Not Found" (404) at link vickie.local/images/transparent.png (from vickie.local/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1)
+20:01:25	Error: 	"Not Found" (404) at link vickie.local/assets/transparent.png (from vickie.local/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1)
+20:01:25	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/themes/g5plus-auteur/style.min.css?ver=5.5.5 (from vickie.local/cart/)
+20:01:27	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2018/12/footer-background.jpg?id=737 (from vickie.local/cart/)
+20:01:27	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/?p=7 (from vickie.local/cart/)
+20:01:29	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvickie.local%2Fcart%2F (from vickie.local/cart/)
+20:01:48	Warning: 	Moved Permanently for vickie.local/?p=9
+20:01:48	Warning: 	File has moved from vickie.local/?p=9 to http://vickie.local/my-account/
+20:01:54	Warning: 	Moved Permanently for vickie.local/?p=645
+20:01:54	Warning: 	File has moved from vickie.local/?p=645 to http://vickie.local/product/henry-the-good-dog/
+20:01:54	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2019/01/logo-black.png (from vickie.local/product/henry-the-good-dog/)
+20:03:12	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2018/11/payment_01.jpg (from vickie.local/product/henry-the-good-dog/)
+20:03:12	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2018/11/payment_02.jpg (from vickie.local/product/henry-the-good-dog/)
+20:03:13	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2018/11/payment_03.jpg (from vickie.local/product/henry-the-good-dog/)
+20:03:13	Error: 	"Unknown error" (520) at link https://vickieswan.ca/wp-content/uploads/2018/11/payment_04.jpg (from vickie.local/product/henry-the-good-dog/)
+20:03:13	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-json/wp/v2/product/126 (from vickie.local/product/a-poem-for-every-night/)
+20:03:14	Warning: 	Moved Permanently for vickie.local/?p=126
+20:03:14	Warning: 	File has moved from vickie.local/?p=126 to http://vickie.local/product/a-poem-for-every-night/
+20:03:22	Error: 	"Not Found" (404) at link vickie.local/spin.js (from vickie.local/wp-content/plugins/g5plus-post-like/assets/vendors/ladda/ladda.min.js?ver=1.0.5)
+20:03:22	Error: 	"Not Found" (404) at link vickie.local/youtu.be/ (from vickie.local/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6)
+20:03:23	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from vickie.local/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.3.4)
+20:03:23	Error: 	"Not Found" (404) at link vickie.local/TweenLite.js (from vickie.local/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.1)
+20:03:23	Error: 	"Not Found" (404) at link vickie.local/Version/ (from vickie.local/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.1)
+20:03:23	Warning: 	Moved Permanently for vickie.local/?p=7
+20:03:23	Warning: 	File has moved from vickie.local/?p=7 to http://vickie.local/cart/
+20:03:25	Error: 	"No data (connection closed)" (-4) after 2 retries at link vickie.local/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from vickie.local/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.3.4)
+20:03:25	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/shop/?post_type=product&add_to_wishlist=126&orderby=menu_order (from vickie.local/shop/?post_type=product&add_to_wishlist=126)
+20:03:25	Warning: 	Retry after error -4 (No data (connection closed)) at link vickie.local/shop/?post_type=product&add_to_wishlist=126&orderby=popularity (from vickie.local/shop/?post_type=product&add_to_wishlist=126)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 25 seconds : 350 links scanned, 306 files written (19700314 bytes overall) [13584626 bytes received at 30527 bytes/sec], 8221339 bytes transferred using HTTP compression in 173 files, ratio 17%, 4.8 requests per connection
+(19 errors, 30 warnings, 0 messages)
